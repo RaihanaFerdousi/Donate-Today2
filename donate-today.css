@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner {
+    text-align: center;
+    background-image: linear-gradient(to bottom, #00000000, #1a1111), url(images/donation1.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    padding: 150px 0;
+    margin-bottom: 150px;
+}
+
+
+.title{
+    font-weight: bold;
+    font-size: 44px;
+    margin: 24px;
+}
+
+.btn{
+    margin: 20px;
+    border: none;
+    background-color: #FF5959;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+}
