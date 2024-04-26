@@ -135,3 +135,15 @@ hr{
 .donation-discription{
     margin: 20px 0;
 }
+/* footer */
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.text-primary{
+    color: #FF5959;
+    margin-bottom: 20px;
+}
