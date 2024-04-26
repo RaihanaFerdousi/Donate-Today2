@@ -23,7 +23,7 @@
 }
 
 .btn{
-    margin: 20px;
+    margin: 20px 0;
     border: none;
     background-color: #FF5959;
     padding: 15px 30px;
@@ -93,13 +93,13 @@ hr{
     border-radius: 10px;
 }
 .card-2{
-    background-color: #e7c9c9;
+    background-color: #ff8484;
     padding: 50px 2%;
     width: 400px;
     border-radius: 10px;
 }
 .card-3{
-    background-color: #f1f3dc;
+    background-color: #f8ffab;
     padding: 50px 2%;
     width: 400px;
     border-radius: 10px;
@@ -111,4 +111,27 @@ hr{
 .card-title{
    margin: 14px 0;
    font-weight: bold;
+}
+
+/* Donation section */
+.donation-section{
+  margin: 200px;
+}
+
+.donation-info{
+    display: flex;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.donation-text{
+    margin: 0 50px;
+}
+.donation-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.donation-discription{
+    margin: 20px 0;
 }
